@@ -1,6 +1,4 @@
-HEAD
 # angular-workshop-01
-956ad6bce37a74df08c8fb045b46abbfc21539a3
 
 # Hello
 
